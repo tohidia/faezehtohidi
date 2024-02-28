@@ -1,0 +1,33 @@
+.pricing-column{
+   padding: 3% 2%; 
+}
+#pricing{
+    padding:100px ;
+}
+.section-heading{
+    position: relative;
+    left: 400px;
+}
+ /* .p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    position: relative;
+    left: 400px;
+  }  */
+  /* 
+   */
+.card-header{
+ height:70px;
+}
+.card-text{color: #a5a3a3;
+  position: relative;
+  
+}
+h2{
+    position: relative;
+    left: 100px;
+}
+h3{
+    position: relative;
+    left: 80px;
+}
